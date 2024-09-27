@@ -8,3 +8,7 @@ To be able to run the project, download it, put it in the database folder (I use
 
 Below I have added a video that shows all the required functionalities.
 
+
+
+https://github.com/user-attachments/assets/50a61545-173d-4032-8215-54cce9f633f7
+
